@@ -1,6 +1,6 @@
-# app
+# Chatify
 
-A new Flutter project.
+An opensource mobile chat App with flutter just for fun
 
 ## Getting Started
 
